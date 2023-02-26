@@ -1,0 +1,15 @@
+E:\Data Structures and Algorithms in C#\1. Bit Manipulation\1. Easy\Power of Four\bin\Debug\net6.0\Power of Four.exe
+E:\Data Structures and Algorithms in C#\1. Bit Manipulation\1. Easy\Power of Four\bin\Debug\net6.0\Power of Four.deps.json
+E:\Data Structures and Algorithms in C#\1. Bit Manipulation\1. Easy\Power of Four\bin\Debug\net6.0\Power of Four.runtimeconfig.json
+E:\Data Structures and Algorithms in C#\1. Bit Manipulation\1. Easy\Power of Four\bin\Debug\net6.0\Power of Four.dll
+E:\Data Structures and Algorithms in C#\1. Bit Manipulation\1. Easy\Power of Four\bin\Debug\net6.0\Power of Four.pdb
+E:\Data Structures and Algorithms in C#\1. Bit Manipulation\1. Easy\Power of Four\obj\Debug\net6.0\Power of Four.csproj.AssemblyReference.cache
+E:\Data Structures and Algorithms in C#\1. Bit Manipulation\1. Easy\Power of Four\obj\Debug\net6.0\Power of Four.GeneratedMSBuildEditorConfig.editorconfig
+E:\Data Structures and Algorithms in C#\1. Bit Manipulation\1. Easy\Power of Four\obj\Debug\net6.0\Power of Four.AssemblyInfoInputs.cache
+E:\Data Structures and Algorithms in C#\1. Bit Manipulation\1. Easy\Power of Four\obj\Debug\net6.0\Power of Four.AssemblyInfo.cs
+E:\Data Structures and Algorithms in C#\1. Bit Manipulation\1. Easy\Power of Four\obj\Debug\net6.0\Power of Four.csproj.CoreCompileInputs.cache
+E:\Data Structures and Algorithms in C#\1. Bit Manipulation\1. Easy\Power of Four\obj\Debug\net6.0\Power of Four.dll
+E:\Data Structures and Algorithms in C#\1. Bit Manipulation\1. Easy\Power of Four\obj\Debug\net6.0\refint\Power of Four.dll
+E:\Data Structures and Algorithms in C#\1. Bit Manipulation\1. Easy\Power of Four\obj\Debug\net6.0\Power of Four.pdb
+E:\Data Structures and Algorithms in C#\1. Bit Manipulation\1. Easy\Power of Four\obj\Debug\net6.0\Power of Four.genruntimeconfig.cache
+E:\Data Structures and Algorithms in C#\1. Bit Manipulation\1. Easy\Power of Four\obj\Debug\net6.0\ref\Power of Four.dll
