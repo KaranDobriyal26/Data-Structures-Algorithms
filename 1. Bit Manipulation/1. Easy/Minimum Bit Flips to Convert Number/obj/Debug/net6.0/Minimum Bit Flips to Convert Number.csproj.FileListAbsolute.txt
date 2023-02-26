@@ -1,0 +1,15 @@
+E:\Data Structures and Algorithms in C#\1. Bit Manipulation\1. Easy\Minimum Bit Flips to Convert Number\bin\Debug\net6.0\Minimum Bit Flips to Convert Number.exe
+E:\Data Structures and Algorithms in C#\1. Bit Manipulation\1. Easy\Minimum Bit Flips to Convert Number\bin\Debug\net6.0\Minimum Bit Flips to Convert Number.deps.json
+E:\Data Structures and Algorithms in C#\1. Bit Manipulation\1. Easy\Minimum Bit Flips to Convert Number\bin\Debug\net6.0\Minimum Bit Flips to Convert Number.runtimeconfig.json
+E:\Data Structures and Algorithms in C#\1. Bit Manipulation\1. Easy\Minimum Bit Flips to Convert Number\bin\Debug\net6.0\Minimum Bit Flips to Convert Number.dll
+E:\Data Structures and Algorithms in C#\1. Bit Manipulation\1. Easy\Minimum Bit Flips to Convert Number\bin\Debug\net6.0\Minimum Bit Flips to Convert Number.pdb
+E:\Data Structures and Algorithms in C#\1. Bit Manipulation\1. Easy\Minimum Bit Flips to Convert Number\obj\Debug\net6.0\Minimum Bit Flips to Convert Number.csproj.AssemblyReference.cache
+E:\Data Structures and Algorithms in C#\1. Bit Manipulation\1. Easy\Minimum Bit Flips to Convert Number\obj\Debug\net6.0\Minimum Bit Flips to Convert Number.GeneratedMSBuildEditorConfig.editorconfig
+E:\Data Structures and Algorithms in C#\1. Bit Manipulation\1. Easy\Minimum Bit Flips to Convert Number\obj\Debug\net6.0\Minimum Bit Flips to Convert Number.AssemblyInfoInputs.cache
+E:\Data Structures and Algorithms in C#\1. Bit Manipulation\1. Easy\Minimum Bit Flips to Convert Number\obj\Debug\net6.0\Minimum Bit Flips to Convert Number.AssemblyInfo.cs
+E:\Data Structures and Algorithms in C#\1. Bit Manipulation\1. Easy\Minimum Bit Flips to Convert Number\obj\Debug\net6.0\Minimum Bit Flips to Convert Number.csproj.CoreCompileInputs.cache
+E:\Data Structures and Algorithms in C#\1. Bit Manipulation\1. Easy\Minimum Bit Flips to Convert Number\obj\Debug\net6.0\Minimum Bit Flips to Convert Number.dll
+E:\Data Structures and Algorithms in C#\1. Bit Manipulation\1. Easy\Minimum Bit Flips to Convert Number\obj\Debug\net6.0\refint\Minimum Bit Flips to Convert Number.dll
+E:\Data Structures and Algorithms in C#\1. Bit Manipulation\1. Easy\Minimum Bit Flips to Convert Number\obj\Debug\net6.0\Minimum Bit Flips to Convert Number.pdb
+E:\Data Structures and Algorithms in C#\1. Bit Manipulation\1. Easy\Minimum Bit Flips to Convert Number\obj\Debug\net6.0\Minimum Bit Flips to Convert Number.genruntimeconfig.cache
+E:\Data Structures and Algorithms in C#\1. Bit Manipulation\1. Easy\Minimum Bit Flips to Convert Number\obj\Debug\net6.0\ref\Minimum Bit Flips to Convert Number.dll

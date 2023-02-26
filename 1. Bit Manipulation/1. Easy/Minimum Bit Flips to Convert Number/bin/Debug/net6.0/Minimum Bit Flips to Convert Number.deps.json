@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Minimum Bit Flips to Convert Number/1.0.0": {
+        "runtime": {
+          "Minimum Bit Flips to Convert Number.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Minimum Bit Flips to Convert Number/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
