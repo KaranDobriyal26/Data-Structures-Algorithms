@@ -1,0 +1,15 @@
+E:\Data Structures and Algorithms in C#\1. Bit Manipulation\1. Easy\XOR Operation in an Array\bin\Debug\net6.0\XOR Operation in an Array.exe
+E:\Data Structures and Algorithms in C#\1. Bit Manipulation\1. Easy\XOR Operation in an Array\bin\Debug\net6.0\XOR Operation in an Array.deps.json
+E:\Data Structures and Algorithms in C#\1. Bit Manipulation\1. Easy\XOR Operation in an Array\bin\Debug\net6.0\XOR Operation in an Array.runtimeconfig.json
+E:\Data Structures and Algorithms in C#\1. Bit Manipulation\1. Easy\XOR Operation in an Array\bin\Debug\net6.0\XOR Operation in an Array.dll
+E:\Data Structures and Algorithms in C#\1. Bit Manipulation\1. Easy\XOR Operation in an Array\bin\Debug\net6.0\XOR Operation in an Array.pdb
+E:\Data Structures and Algorithms in C#\1. Bit Manipulation\1. Easy\XOR Operation in an Array\obj\Debug\net6.0\XOR Operation in an Array.csproj.AssemblyReference.cache
+E:\Data Structures and Algorithms in C#\1. Bit Manipulation\1. Easy\XOR Operation in an Array\obj\Debug\net6.0\XOR Operation in an Array.GeneratedMSBuildEditorConfig.editorconfig
+E:\Data Structures and Algorithms in C#\1. Bit Manipulation\1. Easy\XOR Operation in an Array\obj\Debug\net6.0\XOR Operation in an Array.AssemblyInfoInputs.cache
+E:\Data Structures and Algorithms in C#\1. Bit Manipulation\1. Easy\XOR Operation in an Array\obj\Debug\net6.0\XOR Operation in an Array.AssemblyInfo.cs
+E:\Data Structures and Algorithms in C#\1. Bit Manipulation\1. Easy\XOR Operation in an Array\obj\Debug\net6.0\XOR Operation in an Array.csproj.CoreCompileInputs.cache
+E:\Data Structures and Algorithms in C#\1. Bit Manipulation\1. Easy\XOR Operation in an Array\obj\Debug\net6.0\XOR Operation in an Array.dll
+E:\Data Structures and Algorithms in C#\1. Bit Manipulation\1. Easy\XOR Operation in an Array\obj\Debug\net6.0\refint\XOR Operation in an Array.dll
+E:\Data Structures and Algorithms in C#\1. Bit Manipulation\1. Easy\XOR Operation in an Array\obj\Debug\net6.0\XOR Operation in an Array.pdb
+E:\Data Structures and Algorithms in C#\1. Bit Manipulation\1. Easy\XOR Operation in an Array\obj\Debug\net6.0\XOR Operation in an Array.genruntimeconfig.cache
+E:\Data Structures and Algorithms in C#\1. Bit Manipulation\1. Easy\XOR Operation in an Array\obj\Debug\net6.0\ref\XOR Operation in an Array.dll
