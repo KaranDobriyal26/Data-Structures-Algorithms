@@ -1,0 +1,15 @@
+E:\Data Structures and Algorithms in C#\1. Bit Manipulation\1. Easy\Decode XORed Array\obj\Debug\net6.0\Decode XORed Array.csproj.AssemblyReference.cache
+E:\Data Structures and Algorithms in C#\1. Bit Manipulation\1. Easy\Decode XORed Array\obj\Debug\net6.0\Decode XORed Array.GeneratedMSBuildEditorConfig.editorconfig
+E:\Data Structures and Algorithms in C#\1. Bit Manipulation\1. Easy\Decode XORed Array\obj\Debug\net6.0\Decode XORed Array.AssemblyInfoInputs.cache
+E:\Data Structures and Algorithms in C#\1. Bit Manipulation\1. Easy\Decode XORed Array\obj\Debug\net6.0\Decode XORed Array.AssemblyInfo.cs
+E:\Data Structures and Algorithms in C#\1. Bit Manipulation\1. Easy\Decode XORed Array\obj\Debug\net6.0\Decode XORed Array.csproj.CoreCompileInputs.cache
+E:\Data Structures and Algorithms in C#\1. Bit Manipulation\1. Easy\Decode XORed Array\bin\Debug\net6.0\Decode XORed Array.exe
+E:\Data Structures and Algorithms in C#\1. Bit Manipulation\1. Easy\Decode XORed Array\bin\Debug\net6.0\Decode XORed Array.deps.json
+E:\Data Structures and Algorithms in C#\1. Bit Manipulation\1. Easy\Decode XORed Array\bin\Debug\net6.0\Decode XORed Array.runtimeconfig.json
+E:\Data Structures and Algorithms in C#\1. Bit Manipulation\1. Easy\Decode XORed Array\bin\Debug\net6.0\Decode XORed Array.dll
+E:\Data Structures and Algorithms in C#\1. Bit Manipulation\1. Easy\Decode XORed Array\bin\Debug\net6.0\Decode XORed Array.pdb
+E:\Data Structures and Algorithms in C#\1. Bit Manipulation\1. Easy\Decode XORed Array\obj\Debug\net6.0\Decode XORed Array.dll
+E:\Data Structures and Algorithms in C#\1. Bit Manipulation\1. Easy\Decode XORed Array\obj\Debug\net6.0\refint\Decode XORed Array.dll
+E:\Data Structures and Algorithms in C#\1. Bit Manipulation\1. Easy\Decode XORed Array\obj\Debug\net6.0\Decode XORed Array.pdb
+E:\Data Structures and Algorithms in C#\1. Bit Manipulation\1. Easy\Decode XORed Array\obj\Debug\net6.0\Decode XORed Array.genruntimeconfig.cache
+E:\Data Structures and Algorithms in C#\1. Bit Manipulation\1. Easy\Decode XORed Array\obj\Debug\net6.0\ref\Decode XORed Array.dll
