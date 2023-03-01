@@ -1,0 +1,15 @@
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Running Sum of 1d Array\bin\Debug\net6.0\Running Sum of 1d Array.exe
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Running Sum of 1d Array\bin\Debug\net6.0\Running Sum of 1d Array.deps.json
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Running Sum of 1d Array\bin\Debug\net6.0\Running Sum of 1d Array.runtimeconfig.json
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Running Sum of 1d Array\bin\Debug\net6.0\Running Sum of 1d Array.dll
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Running Sum of 1d Array\bin\Debug\net6.0\Running Sum of 1d Array.pdb
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Running Sum of 1d Array\obj\Debug\net6.0\Running Sum of 1d Array.csproj.AssemblyReference.cache
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Running Sum of 1d Array\obj\Debug\net6.0\Running Sum of 1d Array.GeneratedMSBuildEditorConfig.editorconfig
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Running Sum of 1d Array\obj\Debug\net6.0\Running Sum of 1d Array.AssemblyInfoInputs.cache
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Running Sum of 1d Array\obj\Debug\net6.0\Running Sum of 1d Array.AssemblyInfo.cs
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Running Sum of 1d Array\obj\Debug\net6.0\Running Sum of 1d Array.csproj.CoreCompileInputs.cache
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Running Sum of 1d Array\obj\Debug\net6.0\Running Sum of 1d Array.dll
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Running Sum of 1d Array\obj\Debug\net6.0\refint\Running Sum of 1d Array.dll
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Running Sum of 1d Array\obj\Debug\net6.0\Running Sum of 1d Array.pdb
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Running Sum of 1d Array\obj\Debug\net6.0\Running Sum of 1d Array.genruntimeconfig.cache
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Running Sum of 1d Array\obj\Debug\net6.0\ref\Running Sum of 1d Array.dll
