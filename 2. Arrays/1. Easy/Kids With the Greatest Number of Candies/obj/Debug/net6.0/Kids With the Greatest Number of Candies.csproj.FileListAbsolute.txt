@@ -1,0 +1,15 @@
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Kids With the Greatest Number of Candies\bin\Debug\net6.0\Kids With the Greatest Number of Candies.exe
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Kids With the Greatest Number of Candies\bin\Debug\net6.0\Kids With the Greatest Number of Candies.deps.json
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Kids With the Greatest Number of Candies\bin\Debug\net6.0\Kids With the Greatest Number of Candies.runtimeconfig.json
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Kids With the Greatest Number of Candies\bin\Debug\net6.0\Kids With the Greatest Number of Candies.dll
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Kids With the Greatest Number of Candies\bin\Debug\net6.0\Kids With the Greatest Number of Candies.pdb
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Kids With the Greatest Number of Candies\obj\Debug\net6.0\Kids With the Greatest Number of Candies.csproj.AssemblyReference.cache
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Kids With the Greatest Number of Candies\obj\Debug\net6.0\Kids With the Greatest Number of Candies.GeneratedMSBuildEditorConfig.editorconfig
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Kids With the Greatest Number of Candies\obj\Debug\net6.0\Kids With the Greatest Number of Candies.AssemblyInfoInputs.cache
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Kids With the Greatest Number of Candies\obj\Debug\net6.0\Kids With the Greatest Number of Candies.AssemblyInfo.cs
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Kids With the Greatest Number of Candies\obj\Debug\net6.0\Kids With the Greatest Number of Candies.csproj.CoreCompileInputs.cache
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Kids With the Greatest Number of Candies\obj\Debug\net6.0\Kids With the Greatest Number of Candies.dll
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Kids With the Greatest Number of Candies\obj\Debug\net6.0\refint\Kids With the Greatest Number of Candies.dll
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Kids With the Greatest Number of Candies\obj\Debug\net6.0\Kids With the Greatest Number of Candies.pdb
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Kids With the Greatest Number of Candies\obj\Debug\net6.0\Kids With the Greatest Number of Candies.genruntimeconfig.cache
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Kids With the Greatest Number of Candies\obj\Debug\net6.0\ref\Kids With the Greatest Number of Candies.dll
