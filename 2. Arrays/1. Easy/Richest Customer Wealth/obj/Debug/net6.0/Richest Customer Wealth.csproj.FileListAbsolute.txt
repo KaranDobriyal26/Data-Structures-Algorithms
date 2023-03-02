@@ -1,0 +1,15 @@
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Richest Customer Wealth\obj\Debug\net6.0\Richest Customer Wealth.csproj.AssemblyReference.cache
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Richest Customer Wealth\obj\Debug\net6.0\Richest Customer Wealth.GeneratedMSBuildEditorConfig.editorconfig
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Richest Customer Wealth\obj\Debug\net6.0\Richest Customer Wealth.AssemblyInfoInputs.cache
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Richest Customer Wealth\obj\Debug\net6.0\Richest Customer Wealth.AssemblyInfo.cs
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Richest Customer Wealth\obj\Debug\net6.0\Richest Customer Wealth.csproj.CoreCompileInputs.cache
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Richest Customer Wealth\bin\Debug\net6.0\Richest Customer Wealth.exe
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Richest Customer Wealth\bin\Debug\net6.0\Richest Customer Wealth.deps.json
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Richest Customer Wealth\bin\Debug\net6.0\Richest Customer Wealth.runtimeconfig.json
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Richest Customer Wealth\bin\Debug\net6.0\Richest Customer Wealth.dll
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Richest Customer Wealth\bin\Debug\net6.0\Richest Customer Wealth.pdb
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Richest Customer Wealth\obj\Debug\net6.0\Richest Customer Wealth.dll
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Richest Customer Wealth\obj\Debug\net6.0\refint\Richest Customer Wealth.dll
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Richest Customer Wealth\obj\Debug\net6.0\Richest Customer Wealth.pdb
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Richest Customer Wealth\obj\Debug\net6.0\Richest Customer Wealth.genruntimeconfig.cache
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Richest Customer Wealth\obj\Debug\net6.0\ref\Richest Customer Wealth.dll
