@@ -35,6 +35,32 @@ class Solution
 {
     public static void Main(string[] args)
     {
-         
+          string[] sentences = {"please wait", "continue to fight", "continue to win"};
+
+          Console.WriteLine(MostWordFounds(sentences));
+    }
+
+    static int MostWordFounds(string[] sentences)
+    {
+        int maxSpace = 0;
+        // 1. Traverse to sentences length to N-1.
+
+        for(int i=0; i<sentences.Length; i++)
+        {
+            int tempCheckMax = 0;
+            string tempString = sentences[i];
+            // 2. Traverse to each string.
+            for(int j=0; j<tempString.Length; j++)
+            {
+                if(tempString[j] == ' ') tempCheckMax++;
+            }
+            tempCheckMax++;
+            if(maxSpace < tempCheckMax)
+            {
+                maxSpace = tempCheckMax;
+            }
+        }
+
+        return maxSpace;
     }
 }

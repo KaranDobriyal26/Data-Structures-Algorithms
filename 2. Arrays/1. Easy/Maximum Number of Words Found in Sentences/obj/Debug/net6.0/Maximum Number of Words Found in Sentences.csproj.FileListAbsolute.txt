@@ -1,0 +1,15 @@
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Maximum Number of Words Found in Sentences\bin\Debug\net6.0\Maximum Number of Words Found in Sentences.exe
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Maximum Number of Words Found in Sentences\bin\Debug\net6.0\Maximum Number of Words Found in Sentences.deps.json
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Maximum Number of Words Found in Sentences\bin\Debug\net6.0\Maximum Number of Words Found in Sentences.runtimeconfig.json
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Maximum Number of Words Found in Sentences\bin\Debug\net6.0\Maximum Number of Words Found in Sentences.dll
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Maximum Number of Words Found in Sentences\bin\Debug\net6.0\Maximum Number of Words Found in Sentences.pdb
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Maximum Number of Words Found in Sentences\obj\Debug\net6.0\Maximum Number of Words Found in Sentences.csproj.AssemblyReference.cache
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Maximum Number of Words Found in Sentences\obj\Debug\net6.0\Maximum Number of Words Found in Sentences.GeneratedMSBuildEditorConfig.editorconfig
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Maximum Number of Words Found in Sentences\obj\Debug\net6.0\Maximum Number of Words Found in Sentences.AssemblyInfoInputs.cache
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Maximum Number of Words Found in Sentences\obj\Debug\net6.0\Maximum Number of Words Found in Sentences.AssemblyInfo.cs
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Maximum Number of Words Found in Sentences\obj\Debug\net6.0\Maximum Number of Words Found in Sentences.csproj.CoreCompileInputs.cache
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Maximum Number of Words Found in Sentences\obj\Debug\net6.0\Maximum Number of Words Found in Sentences.dll
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Maximum Number of Words Found in Sentences\obj\Debug\net6.0\refint\Maximum Number of Words Found in Sentences.dll
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Maximum Number of Words Found in Sentences\obj\Debug\net6.0\Maximum Number of Words Found in Sentences.pdb
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Maximum Number of Words Found in Sentences\obj\Debug\net6.0\Maximum Number of Words Found in Sentences.genruntimeconfig.cache
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Maximum Number of Words Found in Sentences\obj\Debug\net6.0\ref\Maximum Number of Words Found in Sentences.dll
