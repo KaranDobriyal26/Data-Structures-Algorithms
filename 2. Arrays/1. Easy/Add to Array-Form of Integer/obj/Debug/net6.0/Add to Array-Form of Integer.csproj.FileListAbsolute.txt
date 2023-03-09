@@ -1,0 +1,15 @@
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Add to Array-Form of Integer\obj\Debug\net6.0\Add to Array-Form of Integer.csproj.AssemblyReference.cache
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Add to Array-Form of Integer\obj\Debug\net6.0\Add to Array-Form of Integer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Add to Array-Form of Integer\obj\Debug\net6.0\Add to Array-Form of Integer.AssemblyInfoInputs.cache
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Add to Array-Form of Integer\obj\Debug\net6.0\Add to Array-Form of Integer.AssemblyInfo.cs
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Add to Array-Form of Integer\obj\Debug\net6.0\Add to Array-Form of Integer.csproj.CoreCompileInputs.cache
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Add to Array-Form of Integer\bin\Debug\net6.0\Add to Array-Form of Integer.exe
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Add to Array-Form of Integer\bin\Debug\net6.0\Add to Array-Form of Integer.deps.json
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Add to Array-Form of Integer\bin\Debug\net6.0\Add to Array-Form of Integer.runtimeconfig.json
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Add to Array-Form of Integer\bin\Debug\net6.0\Add to Array-Form of Integer.dll
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Add to Array-Form of Integer\bin\Debug\net6.0\Add to Array-Form of Integer.pdb
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Add to Array-Form of Integer\obj\Debug\net6.0\Add to Array-Form of Integer.dll
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Add to Array-Form of Integer\obj\Debug\net6.0\refint\Add to Array-Form of Integer.dll
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Add to Array-Form of Integer\obj\Debug\net6.0\Add to Array-Form of Integer.pdb
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Add to Array-Form of Integer\obj\Debug\net6.0\Add to Array-Form of Integer.genruntimeconfig.cache
+E:\Data Structures and Algorithms in C#\2. Arrays\1. Easy\Add to Array-Form of Integer\obj\Debug\net6.0\ref\Add to Array-Form of Integer.dll
