@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Find N Unique Integers Sum up to Zero/1.0.0": {
+        "runtime": {
+          "Find N Unique Integers Sum up to Zero.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Find N Unique Integers Sum up to Zero/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
