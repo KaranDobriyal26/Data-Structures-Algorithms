@@ -26,6 +26,19 @@ public class Solution {
     {
         string sentence = "abcdkaran";
         Console.WriteLine(CheckIfPangram(sentence));
+
+        // 1. Approach
+        // foreach (char ch in "abcdefghijklmnopqrstuvwxyz".AsSpan())
+        // {
+        //     if (!sentence.Contains(ch)) 
+        //     {
+        //         return false;
+        //     } 
+        // }
+
+        // return true;    
+ 
+
     }
 
      public static  bool  CheckIfPangram(string sentence) { 
